@@ -1,0 +1,36 @@
+[{
+    "id": "fake-google-notification-1",
+    "image": "https://unsplash.it/100?image=1027",
+    "alt": "A lady from unsplash.it",
+    "message": "Emilia Kristensen shared an image with you.",
+    "redirectUrl": "https://unsplash.it/100?image=1027",
+    "unread": true
+  }, {
+    "id": "fake-google-notification-2",
+    "image": "https://unsplash.it/100?image=1025",
+    "alt": "A pug in a blanket",
+    "message": "Scot Dixon did something amazing. Why don't you check it out?",
+    "redirectUrl": "https://unsplash.it/100?image=1025",
+    "unread": true
+  }, {
+    "id": "fake-google-notification-3",
+    "image": "https://unsplash.it/100?image=1011",
+    "alt": "A lady in a canoe",
+    "message": "Candida Salomon went canoeing. Check out the pictures they uploaded!",
+    "redirectUrl": "https://unsplash.it/100?image=1011",
+    "unread": false
+  }, {
+    "id": "fake-google-notification-4",
+    "image": "https://unsplash.it/100?image=903",
+    "alt": "A pretty moon",
+    "message": "You won't believe these 5 things about some random planet!",
+    "redirectUrl": "https://unsplash.it/100?image=903",
+    "unread": true
+  }, {
+    "id": "fake-google-notification-5",
+    "image": "https://unsplash.it/100?image=883",
+    "alt": "A guy with clouds in the background",
+    "message": "Clouds. Clouds. Clouds. I'm out of dummy data ideas.",
+    "redirectUrl": "https://unsplash.it/100?image=883",
+    "unread": true
+  }]
